@@ -39,7 +39,7 @@ export default function Home() {
 						}}
 					>
 						<Heading as="h1" fontSize={["4xl", "5xl"]}>
-							Howdy, I am{" "}
+							Howdy, I am crazy{" "}
 							<Link
 								textColor="blue.400"
 								href="https://read.cv/ilhambara"
