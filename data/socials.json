@@ -2,25 +2,25 @@
 	{
 		"id": 1,
 		"social": "GitHub",
-		"slug": "github.com/ilhambara",
-		"canonical_url": "https://github.com/ilhambara"
+		"slug": "github.com/uvacoder",
+		"canonical_url": "https://github.com/uvacoder"
 	},
 	{
 		"id": 2,
 		"social": "Dev.to",
-		"slug": "dev.to/ilhambara",
-		"canonical_url": "https://dev.to/ilhambara"
+		"slug": "dev.to/fu4303",
+		"canonical_url": "https://dev.to/fu4303"
 	},
 	{
 		"id": 3,
 		"social": "Twitter",
-		"slug": "twitter.com/zgve679jdv",
-		"canonical_url": "https://twitter.com/zgve679jdv"
+		"slug": "twitter.com/AlecCam43544378",
+		"canonical_url": "https://twitter.com/AlecCam43544378"
 	},
 	{
 		"id": 4,
 		"social": "Email",
-		"slug": "g2a.ilhammubarok@gmail.com",
-		"canonical_url": "mailto:g2a.ilhammubarok@gmail.com"
+		"slug": "freeunioncoder@gmail.com",
+		"canonical_url": "mailto:freeunioncoder@gmail.com"
 	}
 ]
