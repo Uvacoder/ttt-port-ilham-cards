@@ -85,7 +85,7 @@ export const Footer = () => {
 				alignItems={["center", "flex-end"]}
 				m={["3", "0"]}
 			>
-				<Text fontWeight="medium">© 2021—present Ilham Bara.</Text>
+				<Text fontWeight="medium">© 2021—present Maddie Campbell.</Text>
 				<Text fontWeight="medium" textColor="gray.400">
 					version-3.04
 				</Text>
